@@ -1,0 +1,11 @@
+Objetivos
+
+Criar uma API Rest para controle de produtos
+
+Produto:
+  id, nome, quantidade, valor, observacoes
+
+Repositorio de usuario:
+  obterTodos, obterPorId, adicionar, atualizar, deletar
+
+
